@@ -1,0 +1,45 @@
+!! Colors
+
+!! Purple     #AE81FF
+!! Pink-red   #F92672
+!! Blue       #66D9EF
+!! Green      #A6E22E
+!! Orange     #FD971F
+!! White      #FFFFFF
+
+!! Background
+*.color0: #101010
+!! Brackets
+*.color1: #E10020
+!! @
+*.color2: #E10020
+!! User Name
+*.color3: #666666
+!! Focused Window Border
+*.color4: #666666
+!! Toggle direction color
+*.color5: #E10020
+!! Certain dotfiles and numerical values in SC-IM
+*.color6: #E10020
+!! $ and i3 block text SC-IM focsued and col/row text
+*.color7: #FFFFFF
+!! htop process location
+*.color8: #E10020
+!! unknown
+*.color9: #E10020
+!! Program Directories and Name in Ranger
+*.color10: #E10020
+!! Device files /dev
+*.color11: #A6E22E
+!! All Directories in Ranger
+*.color12: #E10020
+!! unknown
+*.color13: #E10020
+!! i3blocks separators
+*.color14: #666666
+!! Main text
+*.color15: #FFFFFF
+!! Transparency (0-255):
+st.alpha: 230
+!! Set a default font and font size as below:
+!! *.font: Monospace-14;
